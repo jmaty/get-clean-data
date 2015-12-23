@@ -1,7 +1,3 @@
-# X_train_path <- "UCI HAR Dataset/train/X_train.txt"
-# y_train_path <- "UCI HAR Dataset/train/y_train.txt"
-# X_test_path <- "UCI HAR Dataset/test/X_test.txt"
-# y_test_path <- "UCI HAR Dataset/test/y_test.txt"
 library(reshape2)
 
 # -----------------------------------------------------------------------------
